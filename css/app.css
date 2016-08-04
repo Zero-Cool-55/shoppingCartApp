@@ -1,0 +1,17 @@
+body {
+  padding-top: 60px;
+}
+.product-list{
+
+}
+.product-list .item{
+    list-style-type: none;
+    border:1px solid #ddd;
+    width: 250px;
+    padding:5px;
+    border-radius: 4px;
+    margin: 10px;
+}
+.product-list .item img{
+    width:100%;
+}
